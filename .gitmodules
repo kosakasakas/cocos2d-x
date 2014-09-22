@@ -16,3 +16,6 @@
 [submodule "plugin"]
 	path = plugin
 	url = https://github.com/cocos2d-x/plugin-x.git
+[submodule "projects/BabylonClicker"]
+	path = projects/BabylonClicker
+	url = https://github.com/kosakasakas/BabylonClicker.git
