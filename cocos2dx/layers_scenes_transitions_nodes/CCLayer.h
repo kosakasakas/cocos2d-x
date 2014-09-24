@@ -187,7 +187,7 @@ public:
 #endif // CC_USE_PHYSICS
 
 protected:
-    void addTouchListener();
+    virtual void addTouchListener();
     
     bool _touchEnabled;
     bool _accelerometerEnabled;
